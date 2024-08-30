@@ -1,0 +1,117 @@
+.firstSection{
+        display: flex;
+        margin: 23px 0;
+        justify-content:space-around;
+        margin: 140px 0;
+    
+      }
+      .firstSection > div{
+         width:30%;
+      }
+      
+      .leftSection {
+         margin:30px 0;
+        font-size:2.5rem ;
+        
+        
+      }
+      .leftSection .btn {
+       padding:12px;
+       background:rgb(15, 15, 62);
+       color:white;
+       border-radius: 6px;
+       border: 2px solid white;
+       cursor:pointer;
+       
+     }
+     .leftSection .button{
+          padding:50px  0px;
+     }
+      .rightSection img{
+        width: 80%
+      }
+      .purple{
+        color:rgb(244, 127, 244)
+      }
+      #element{
+        color:rgb(238, 130, 238);
+      }
+      .secondSection{
+        max-width:60vw;
+        margin:auto;
+        height: 60vh;
+      }
+     main hr{
+       border:0;
+       background:white;
+       margin:40px 60px;
+       height:1px;
+     }
+     .secondSection h1{
+            font-size:1.9rem;
+             margin: 0px 0px;
+     }
+     .text-grey{
+      color:grey;
+      margin: 0px 0px;
+     }
+    .secondSection .box{
+       background: white;
+       height:3px;
+       margin:50px 0px;
+       width:70vw;
+       display:flex;
+    }
+    .secondSection .vertical{
+       height: 93px;
+       width:3px;
+       background-color:white;
+       margin: 0px 100px ;
+
+    }  
+    .image-top{
+      width:23px;
+      position: relative;
+      top:-32px;
+      left:-9px;
+    }
+    .verticle-title{
+       position:relative;
+       top:70px;
+       width:150px;
+       font-size: 14px;
+    }
+    .verticle-desc{
+      position: relative;
+       top: 75px;
+        width:150px;
+        font-size:9px;
+        color:gray;
+
+    }
+    footer{
+      background-color: rgb(16, 14, 57);
+       /* height:200px; */
+      /* display:flex;
+      padding: 23px 230px;
+      justify-content:space-evenly; */
+      
+    }
+    .footer{
+      display:flex;
+      padding: 23px 230px;
+      justify-content:space-evenly;
+    }
+
+    ul{
+      list-style: none;
+    }
+    /* .footer div{
+      width:123px;
+    } */
+    .footer-right{
+       text-align:center;
+       color:rgb(230, 209, 209);
+       padding : 23px 0px;
+       
+    }
